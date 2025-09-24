@@ -1,0 +1,20 @@
+{
+	"leaf": false,
+	"children": [{
+			"text": "Controle Clientes",
+			"iconCls": "x-fa fa-users",
+			"leaf": true,
+			"xtype": "panel-listagem-usuarios"
+		}, {
+			"text": "Controle OS",
+			"leaf": true,
+			"iconCls": "x-fa fa-list",
+			"xtype": "panel-listagem-os"
+		}, {
+			"text": "Estoque",
+			"iconCls":"x-fa fa-box",
+			"leaf": true,
+			"xtype": "panel-estoque"
+		}
+	]
+}
